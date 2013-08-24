@@ -1,4 +1,4 @@
-jimiFront
+jimiTec
 =========
 
-jimiFrontShare
+jimiTecShare
