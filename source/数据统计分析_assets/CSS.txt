@@ -1,0 +1,21 @@
+
+±Í«©
+{
+	-webkit-box-shadow: 5px 8px 6px rgba(0,0,0,.66);
+	-moz-box-shadow: 5px 8px 6px rgba(0,0,0,.66);
+	box-shadow: 5px 8px 6px rgba(0,0,0,.66);
+	width: 178px;
+	height: 72px;
+}
+
+
+bottom_background
+{
+	background-image: -webkit-linear-gradient(top, rgba(0,0,0,.11), rgba(146,145,145,.11));
+	background-image: -moz-linear-gradient(top, rgba(0,0,0,.11), rgba(146,145,145,.11));
+	background-image: -o-linear-gradient(top, rgba(0,0,0,.11), rgba(146,145,145,.11));
+	background-image: -ms-linear-gradient(top, rgba(0,0,0,.11), rgba(146,145,145,.11));
+	background-image: linear-gradient(to bottom, rgba(0,0,0,.11), rgba(146,145,145,.11));
+	width: 1920px;
+	height: 272px;
+}

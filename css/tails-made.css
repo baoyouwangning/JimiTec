@@ -1,0 +1,24 @@
+        /* tails-made.html CSS style */
+#process ul {
+    width:100%;
+    padding:1% 0px;
+    margin-bottom: 21px;
+}
+#process ul li {
+    margin:1% auto;
+}
+#process ul #title {
+    width:100%;
+    font-size:30px;
+}
+#process ul li#step_3 {
+    float: right;
+}
+#process ul li#step_2 {
+    margin-left:10%;
+}
+#process ul li p {
+    font-size:20px;
+    line-height: 32px;
+    margin-top:11px;
+}
