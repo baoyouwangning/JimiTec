@@ -1,27 +1,53 @@
         /* tails-made.html CSS style */
+#process {
+    clear: both;
+    overflow: hidden;
+}
 #process ul {
-    width:100%;
-    padding:1% 0px;
+    float: none;
+    width:780px;
     margin-bottom: 21px;
+    overflow: hidden;
+    margin:0 auto;
 }
 #process ul li {
-    margin:1% auto;
+    /*margin:1% auto;*/
+    /*margin: 10px 20px;*/
+    
+    margin: 10px 20px;
+
+    width:220px;
 }
 #process ul #title {
     width:100%;
-    font-size:30px;
+    /*font-size:30px;*/
+    font-size: 20px;
 }
 #process ul li#step_3 {
-    float: right;
+    /*float: right;*/
 }
 #process ul li#step_2 {
-    margin-left:10%;
+    /*margin-left:10%;*/
 }
 #process ul li p {
-    font-size:20px;
-    line-height: 32px;
-    margin-top:11px;
+    /*font-size:20px;*/
+
+    font-size: 16px;
+
+
+    line-height: 22px;
 }
 #banner {
-    width:100%;
+    /*width:100%;*/
+
+
+    /*width:800px;*/
+    /*width:900px;*/
+    width:960px;
+
+    margin:0 auto;
+}
+p#title_process {
+    font-size: 20px;
+    margin-top:11px;
 }

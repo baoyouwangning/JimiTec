@@ -1,6 +1,11 @@
  /* sys-tailor-made.html CSS style*/
  #banner {
-     width:100%;
+     /*width:100%;*/
+     /*height:525px;*/
+     /*width:800px;*/
+     /*width:900px;*/
+     width:960px;
+     margin:0 auto;
      position: relative;
  }
  #banner #bannerTitle {
@@ -23,10 +28,12 @@
  #process_analysis ul li div.step_number {
      float: left;
      width: 180px;
-     height: 80px;
+     /*height: 80px;*/
+     height: 50px;
      font-family: Arial, Helvetica, sans-serif;
-     font-size:31px;
-     line-height: 60px;
+     /*font-size:31px;*/
+     font-size: 20px;
+     line-height: 50px;
      text-align: left;
      color:#9e0b0f;
      background: none;

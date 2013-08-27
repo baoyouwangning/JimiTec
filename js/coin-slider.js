@@ -506,8 +506,8 @@
 
 	// default values
 	$.fn.coinslider.defaults = {
-		width: 1500, // width of slider panel
-		height: 539, // height of slider panel
+		width: 960, // width of slider panel
+		height: 420, // height of slider panel
 		spw: 7, // squares per width
 		sph: 5, // squares per height
 		delay: 3000, // delay between images in ms
