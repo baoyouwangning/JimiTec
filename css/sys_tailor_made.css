@@ -1,7 +1,6 @@
  /* sys-tailor-made.html CSS style*/
  #banner {
      width:100%;
-     height:525px;
      position: relative;
  }
  #banner #bannerTitle {
@@ -12,8 +11,9 @@
      text-align: center;
  }
  #banner #bannerTitle img.bannerTitle {
-     margin-top: 22px;
-     margin-left:30px;
+     margin-top: 21px;
+     margin-left: 30px;
+     width:60%;
  }
  #banner #bannerTitle img#mainTitle {
      float: left;

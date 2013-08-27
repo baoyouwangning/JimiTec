@@ -2,11 +2,11 @@
 #footer {
     clear: both;
     width:100%;
-    background: url("../images/common/bottom_back.png") repeat-y;
+    background: url("../images/common/bottom_back.png") repeat;
 }
 #footer #jimi_formation {
     padding-top:80px;
-    padding-bottom: 180px;
+    padding-bottom: 190px;
     width:50%;
     margin:0 auto;
 }
