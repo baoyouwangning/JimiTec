@@ -524,5 +524,4 @@
 		showNavigationButtons: true,
 		navigationPrevNextAlwaysShown: false
 	};
-
 })(jQuery);
