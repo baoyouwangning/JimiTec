@@ -1,0 +1,38 @@
+ /* sys-tailor-made.html CSS style*/
+ #banner {
+     width:960px;
+     margin:0 auto;
+     position: relative;
+ }
+ #banner #bannerTitle {
+     position: absolute;
+     right:0px;
+     top:30%;
+     width:59%;
+     text-align: center;
+ }
+ #banner #bannerTitle img.bannerTitle {
+     margin-top: 21px;
+     margin-left: 30px;
+     width:60%;
+ }
+ #banner #bannerTitle img#mainTitle {
+     float: left;
+     margin-bottom: 26px;
+ }
+
+ #process_analysis ul li div.step_number {
+     float: left;
+     width: 180px;
+     height: 50px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     line-height: 50px;
+     text-align: left;
+     color:#9e0b0f;
+     background: none;
+ }
+ #process_analysis ul li div.img img{
+    margin-left:22%;
+ }
+

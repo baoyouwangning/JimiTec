@@ -1,0 +1,8 @@
+         /*it-page.html style*/
+#process_analysis ul li div.img img {
+    margin:0 auto;
+    margin-left:10%;
+}
+#process_analysis ul li div.img img.img_re {
+    margin-left:22%;
+}
