@@ -1,8 +1,5 @@
    /* data-analysis.html CSS style */
 #banner {
-    /*width:100%;*/
-    /*width:800px;*/
-    /*width:900px;*/
     width:960px;
     margin:0 auto;
     position: relative;
@@ -21,19 +18,13 @@
     line-height: 38px;
 }
 #process_analysis {
-    /*width:100%;*/
-    /*width: 800px;*/
-    /*width:900px;*/
     width:960px;
     overflow: hidden;
     margin: 0 auto;
 }
-
 #process_analysis ul li.step_title {
-    /*height: 80px;*/
     height: 40px;
     line-height: 40px;
-    /*font-size:30px;*/
     font-size: 20px;
 }
 #process_analysis ul li {
@@ -52,30 +43,18 @@
     background: url("../images/dataAnalysis/tag.png") center no-repeat;
 }
 #process_analysis ul li p {
-    float: left;
-    /*font-size:30px;*/
-    /*line-height: 50px;*/
-    /*margin-bottom: 30px;*/
-
-
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 10px;
-
 }
-
-
 #process_analysis ul li div.step_title {
-    /*width: 80%;*/
     width:600px;
     height: 90px;
     float: left;
     font-size:30px;
     margin-top: 15px;
-    /*margin-left: 20px;*/
 }
 #process_analysis ul li div.img {
-    /*width:82%;*/
     width:400px;
     margin:0 auto;
 }

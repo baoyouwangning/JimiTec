@@ -11,40 +11,19 @@
     margin:0 auto;
 }
 #process ul li {
-    /*margin:1% auto;*/
-    /*margin: 10px 20px;*/
-    
     margin: 10px 20px;
-
     width:220px;
 }
 #process ul #title {
     width:100%;
-    /*font-size:30px;*/
     font-size: 20px;
 }
-#process ul li#step_3 {
-    /*float: right;*/
-}
-#process ul li#step_2 {
-    /*margin-left:10%;*/
-}
 #process ul li p {
-    /*font-size:20px;*/
-
     font-size: 16px;
-
-
     line-height: 22px;
 }
 #banner {
-    /*width:100%;*/
-
-
-    /*width:800px;*/
-    /*width:900px;*/
     width:960px;
-
     margin:0 auto;
 }
 p#title_process {
