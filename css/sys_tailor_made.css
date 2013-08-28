@@ -25,7 +25,7 @@
 
  #process_analysis ul li div.step_number {
      float: left;
-     width: 180px;
+     width:100%;
      height: 50px;
      font-family: Arial, Helvetica, sans-serif;
      font-size: 20px;

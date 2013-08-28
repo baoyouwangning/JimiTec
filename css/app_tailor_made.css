@@ -9,3 +9,6 @@ app-tailor-made.html CSS style
     height: 31px;
     line-height: 31px;
 }
+#process_analysis ul li p {
+    float: left;
+}
