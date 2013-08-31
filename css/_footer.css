@@ -8,8 +8,10 @@
     overflow: hidden;
 }
 #footer #jimi_formation {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    /*padding-top: 10px;*/
+    padding-top:76px;
+    /*padding-bottom: 10px;*/
+    padding-bottom: 43px;
     overflow: hidden;
     width:700px;
     margin:0 auto;
