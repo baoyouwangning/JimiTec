@@ -1,4 +1,4 @@
 jimiTec
 =========
-
-jimiTecShare
+Welcome!
+http://www.jimitec.com/
